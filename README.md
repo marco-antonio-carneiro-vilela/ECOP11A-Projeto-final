@@ -54,6 +54,7 @@ usuário
 https://www.youtube.com/watch?v=5RqwbafUiyc
 
 ### Apresentação de slides 
+https://www.canva.com/design/DAGqi_tdYNU/dGpC7W_kP4pNGGs_UlzY2A/view?utm_content=DAGqi_tdYNU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd9e0ba76c0
 
 
 
