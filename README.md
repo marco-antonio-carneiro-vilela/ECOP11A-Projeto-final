@@ -8,6 +8,7 @@ Introdução a Programação: Projeto Final com Introdução a Engenharia e Mét
 - Breno Alves - 2025013746
 - Gustavo Fernandes Gonçalves de Lima - 2025002985
 - Arthur Moraes Marques dos Santos - 2025001389
+- Otávio Cardozo da Cunha - 2025001861
 
 ## Tema do projeto 
 Construir uma sala de ambiente controlado 
