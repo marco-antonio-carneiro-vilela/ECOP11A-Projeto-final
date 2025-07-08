@@ -2,11 +2,12 @@
 Introdução a Programação: Projeto Final com Introdução a Engenharia e Métodos Científicos
 
 ## Equipe 
-Victor Augusto - 2025016677
-Marco Antônio Vilela - 2025005299
-Breno Alves - 2025013746
-Gustavo Fernandes Gonçalves de Lima - 2025002985
-Arthur Moraes Marques dos Santos - 2025001389
+
+- Victor Augusto - 2025016677
+- Marco Antônio Vilela - 2025005299
+- Breno Alves - 2025013746
+- Gustavo Fernandes Gonçalves de Lima - 2025002985
+- Arthur Moraes Marques dos Santos - 2025001389
 
 ## Tema do projeto 
 Construir uma sala de ambiente controlado 
@@ -53,12 +54,9 @@ usuário
 ### Vídeo de funcionamento 
 https://www.youtube.com/watch?v=5RqwbafUiyc
 
+### Documentação
+[Documentação](https://github.com/marco-antonio-carneiro-vilela/ECOP11A-Projeto-final/blob/main/docs/Documentacao_do_projeto.pdf)
+
 ### Apresentação de slides 
-https://www.canva.com/design/DAGqi_tdYNU/dGpC7W_kP4pNGGs_UlzY2A/view?utm_content=DAGqi_tdYNU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd9e0ba76c0
 
-
-
-
-
-
-
+[Apresentação](https://github.com/marco-antonio-carneiro-vilela/ECOP11A-Projeto-final/blob/main/docs/Slides%20-%20ECAE00%20-%20Sala%20Controlada.pdf)
