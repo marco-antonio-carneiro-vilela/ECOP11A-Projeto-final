@@ -14,9 +14,6 @@ Construir uma sala de ambiente controlado
 
 ## Fase 1: Pesquisa e planejamento
 
-### Problema 
-
-
 ### Objetivo
 Desenvolver um sistema de automação residencial inteligente que integre controle de acesso, monitoramento do ambiente e acionamento de dispositivos, visando 
 proporcionar maior segurança, conforto e economia de energia.
