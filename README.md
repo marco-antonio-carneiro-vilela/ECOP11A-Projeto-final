@@ -1,12 +1,12 @@
 # ECOP11A - Projeto Final Introdução a Engenharia
-Introdução a Programação: Projeto final
+Introdução a Programação: Projeto Final com Introdução a Engenharia e Métodos Científicos
 
 ## Equipe 
-*Victor Augusto - 2025016677
-*Marco Antônio Vilela - 2025005299
-*Breno Alves - 2025013746
-*Gustavo Fernandes Gonçalves de Lima - 2025002985
-*Arthur Moraes Marques dos Santos - 2025001389
+Victor Augusto - 2025016677
+Marco Antônio Vilela - 2025005299
+Breno Alves - 2025013746
+Gustavo Fernandes Gonçalves de Lima - 2025002985
+Arthur Moraes Marques dos Santos - 2025001389
 
 ## Tema do projeto 
 Construir uma sala de ambiente controlado 
