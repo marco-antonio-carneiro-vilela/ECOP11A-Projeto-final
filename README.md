@@ -45,6 +45,11 @@ usuário
 ### Diagrama esquemático 
 ![diagrama_esquematico](https://github.com/user-attachments/assets/e498d38e-4815-482e-8a57-0325340a6617)
 
+## Fase 3: Documentação do protótipo 
+
+### Fotos do protótipo 
+![prototipo](https://github.com/user-attachments/assets/99d3eaf8-a8f5-449b-8619-03942c7cd87e)
+
 
 
 
