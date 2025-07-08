@@ -38,7 +38,12 @@ Display LCD I2C - Exibe informações pra o
 usuário
 
 ### Diagrama em blocos 
+![diagrama_em_blocos ](https://github.com/user-attachments/assets/81af1570-4642-426f-b179-15014f9621b0)
 
+## Fase 2: Implementação 
+
+### Diagrama esquemático 
+![diagrama_esquematico](https://github.com/user-attachments/assets/e498d38e-4815-482e-8a57-0325340a6617)
 
 
 
