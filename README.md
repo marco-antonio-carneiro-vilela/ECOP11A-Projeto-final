@@ -50,6 +50,10 @@ usuário
 ### Fotos do protótipo 
 ![prototipo](https://github.com/user-attachments/assets/99d3eaf8-a8f5-449b-8619-03942c7cd87e)
 
+### Vídeo de funcionamento 
+https://www.youtube.com/watch?v=5RqwbafUiyc
+
+### Apresentação de slides 
 
 
 
